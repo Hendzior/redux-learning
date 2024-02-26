@@ -1,0 +1,12 @@
+[
+  {"id": "1a3e5f", "name": "DJI Mavic Mini", "cost": 399},
+  {"id": "7b9d2c", "name": "Parrot Anafi", "cost": 699},
+  {"id": "4f6h8j", "name": "DJI Mavic Air 2", "cost": 799},
+  {"id": "2k5l7m", "name": "Autel Robotics Evo", "cost": 999},
+  {"id": "8n3p2q", "name": "Skydio 2", "cost": 999},
+  {"id": "1r3t5u", "name": "DJI Mavic 3", "cost": 1999},
+  {"id": "7v9x2z", "name": "DJI Phantom 4 Pro V2.0", "cost": 1799},
+  {"id": "4c6v8b", "name": "Autel Robotics EVO II", "cost": 1499},
+  {"id": "2n4w6e", "name": "DJI Inspire 2", "cost": 2999},
+  {"id": "1a2b3c", "name": "Skydio X2", "cost": 9999}
+]
